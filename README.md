@@ -1,1 +1,2 @@
 # Prediction-of-bacterial-pH-preferences
+This project investigated the genes associated with bacterial pH preference by analyzing 16S rRNA gene sequencing datasets from soil and freshwater ecosystems. Using the set of genes consistently associated with preference for high or low pH, a boosted regression machine learning model was developed to predict the pH preference of any bacterial taxon based on genomic information. 
